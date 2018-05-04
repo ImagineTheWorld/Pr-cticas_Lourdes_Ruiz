@@ -1,0 +1,42 @@
+header{
+	background-color: #FFC0CB;
+	padding: 10px;
+	font-family: "Times New Roman";
+	color: black;
+	font-size: 26px;
+	text-align: center;
+}
+.n{
+	font-family: "Arial";
+	color: #6495ED;
+	text-align: center;
+}
+h2{
+	font-family: "Times New Roman";
+	font-size: 24px;
+	color: #FF1493;
+	padding-top: 20px;
+}
+section{
+	font-family: "Arial";
+	color: #6495ED;
+	font-size: 15px;
+	padding-left: 40px;
+	padding-right: 40px;
+	text-align: justify;
+}
+.img{
+	float: left;
+}
+article{
+	padding-bottom: 60px;
+}
+footer{
+    clear: both;/*Limpia float*/
+	font-family: "Times New Roman";
+	font-size: 22px;
+	color: #FF1493;
+	padding: 30px;
+	text-align: left;
+	background-image: url(../img/pastel.jpg);
+}
